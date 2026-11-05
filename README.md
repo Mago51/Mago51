@@ -58,7 +58,7 @@ I prefer understanding how systems work internally rather than relying entirely 
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mago51&layout=compact&theme=github_dark&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" width="65%" alt="Most Used Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mago51&layout=compact&theme=github_dark&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&v=2" width="65%" alt="Most Used Languages" />
 
 <br />
 
